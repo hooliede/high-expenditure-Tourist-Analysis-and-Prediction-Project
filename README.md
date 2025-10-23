@@ -91,12 +91,12 @@
 ---
 
 ## 📂 프로젝트 구조
-
+ ```
 project/
 ├─ README.md
 ├─ notebooks/
 └─ images/
-
+```
 ---
 
 ## 🚧 프로젝트의 한계 및 개선 방향
